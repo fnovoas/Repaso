@@ -2,6 +2,8 @@
 Juego de la vida de Conway (GoL), desarrollado en Processing Java. Por Fernando Novoa.
 
 **Instrucciones**
+- Descargar y abrir el juego (es el archivo GameOfLife.pde, dentro de la carpeta GameOfLife).
+- Ejecutar.
 - El juego empieza pausado. Ejecuta y presiona ESPACIO para continuar.
 
 **Controles:**
