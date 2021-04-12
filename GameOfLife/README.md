@@ -1,4 +1,4 @@
-# Juego-de-La-Vida-de-Conway
+# Juego de La Vida de Conway (en Processing)
 Juego de la vida de Conway (GoL), desarrollado en Processing Java.
 #por Fernando Novoa.
 
