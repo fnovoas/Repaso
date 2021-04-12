@@ -4,7 +4,7 @@ Juego de la vida de Conway (GoL), desarrollado en Processing Java. Por Fernando 
 **Instrucciones**
 - El juego empieza pausado. Ejecuta y presiona ESPACIO para continuar.
 
-Controles:
+**Controles:**
 
  + 1 = VELOCIDAD BAJA
  + 2 = VELOCIDAD NORMAL
@@ -27,7 +27,7 @@ Controles:
  
  + clic = CAMBIAR ESTADO DE LA CÉLULA MANUALMENTE
 
-+ -)Presets / patrones preconfigurados: 
++ Presets / patrones preconfigurados: 
       
       Preset 1: pulsar
       Preset 2: penta-decathlon
