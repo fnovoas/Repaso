@@ -1,6 +1,7 @@
 # Juego de La Vida de Conway (en Processing)
 Juego de la vida de Conway (GoL), desarrollado en Processing Java.
-#por Fernando Novoa.
+
+# por Fernando Novoa
 
 **Instrucciones**
 - El juego empieza pausado. Ejecuta y presiona ESPACIO para continuar.
